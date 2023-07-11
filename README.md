@@ -42,6 +42,6 @@ Screen Resolution | 1920x1080 pixels |
 ## **Test Execution Results**
 Parameters | Values | 
 --- | --- |
-**Total** | **$${\color{black}23}$$** |
+**Total** | **$${\color{light-gray}23}$$** |
 Passed | $${\color{green}23}$$ |
 Failed | $${\color{red}5}$$ |
