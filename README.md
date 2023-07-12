@@ -40,8 +40,5 @@ Screen Resolution | 1920x1080 pixels |
   - **Password:** Testuser1!; test; 123; !"£$; TEST; 
 
 ## **Test Execution Results**
-Parameters | Values | 
---- | --- |
-**Total** | **$${\color{light-gray}23}$$** |
-Passed | $${\color{green}23}$$ |
-Failed | $${\color{red}5}$$ |
+
+- The [Geex-Arts Bug Reports.md](https://github.com/mariamavetisyan22/eyeb-web-test-case-bug-report-task/blob/main/Geex-Arts%20Bug%20Reports.md) file indicates buf reports found bugs of introduced test scenarios.
