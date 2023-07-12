@@ -9,10 +9,8 @@ The task of Geex-Arts, includes test cases and Bug Reports of Sign In/Sign Up pa
   
   1. Check Sign Up using a valid email.
   2. Check Sign Up using a valid phone.
-  3. Check Sign In using a valid existing phone.
-  4. Check Sign In using a valid existing email.
-  5. Check Sign In using a valid existing username.
-  6. Check Forgot Password on the Sign In page.
+  3. Check Sign Up using a Google Account.
+  4. Check Sign In using a valid existing phone/email.
 
 ## **Test Objective**
  
