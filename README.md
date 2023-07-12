@@ -2,7 +2,7 @@
 
 The task of Geex-Arts, includes test cases and Bug Reports of Sign In/Sign Up pages.
 
-- This is the test documentation of the task [Geex-Arts](https://eyeb-web-git-dev-eyeb.vercel.app/feed){:target="_blank" rel="noopener"} which includes a test document file of the Sign Up/Login pages, you can find the test cases and bug reports, also test environment parameters, requirements, and possible test scenarios, test data (in one table for easy use).
+- This is the test documentation of the task [Geex-Arts](https://eyeb-web-git-dev-eyeb.vercel.app/feed) which includes a test document file of the Sign Up/Login pages, you can find the test cases and bug reports, also test environment parameters, requirements, and possible test scenarios, test data (in one table for easy use).
 
   There are the scenarios of the documented file.
 - The [Geex-Arts Test Cases.md](https://github.com/mariamavetisyan22/eyeb-web-test-case-bug-report-task/blob/main/Geex-Arts%20Test%20Cases.md) file indicates test cases for the following scenarios.
@@ -37,9 +37,11 @@ Screen Resolution | 1920x1080 pixels |
 ## **Test Data**
 #### _Valid Test Data_
   - **Email:** mar.test.avetis@gmail.com
+  - **Phone** +13022814650;
   - **Password:** Testuser1!;
 #### _Invalid Test Data_
   - **Email:** m@mailinator.com; test#gmail.com; test
+  - **Phone** +3197010526431;
   - **Password:** test; 123; !"£$; TEST; 
 
 ## **Test Execution Results**
