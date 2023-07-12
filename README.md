@@ -7,10 +7,10 @@ The task of Geex-Arts, includes test cases and Bug Reports of Sign In/Sign Up pa
   There are the scenarios of the documented file.
 - The [Geex-Arts Test Cases.md](https://github.com/mariamavetisyan22/eyeb-web-test-case-bug-report-task/blob/main/Geex-Arts%20Test%20Cases.md) file indicates test cases for the following scenarios.
   
-  1. Check Sign Up using a valid/invalid email.
-  2. Check Sign Up using a valid/invalid phone.
-  3. Check Sign In using a valid/invalid existing phone.
-  4. Check Sign In using a valid/invalid existing email.
+  1. Check Sign Up using a valid email.
+  2. Check Sign Up using a valid phone.
+  3. Check Sign In using a valid existing phone.
+  4. Check Sign In using a valid existing email.
   5. Check Sign In using a valid existing username.
   6. Check Forgot Password on the Sign In page.
 
