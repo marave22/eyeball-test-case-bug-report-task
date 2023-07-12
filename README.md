@@ -38,7 +38,7 @@ Screen Resolution | 1920x1080 pixels |
 #### _Valid Test Data_
   - **Email:** mar.test.avetis@gmail.com
   - **Password:** Testuser1!;
-#### _Valid Test Data_
+#### _Invalid Test Data_
   - **Email:** m@mailinator.com; test#gmail.com; test
   - **Password:** test; 123; !"£$; TEST; 
 
