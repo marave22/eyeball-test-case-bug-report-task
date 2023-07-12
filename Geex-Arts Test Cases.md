@@ -23,16 +23,16 @@
 | :- | :- |
 |1|Click on the “Sign Up” button|
 |2|Click on “User phone or email”|
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
+|3|Select the "Email" option|
+|4|Enter valid email (not copy and paste)|
+|5|Click on "Next"|
+|6|Create Password (enter valid password)|
+|7|Setup the birthday -> click on "Next"|
+|8|Pick the interests -> click on "Build my feed"|
+|9|After getting the generated username click on "Next"|
 
 
-|**Expected Result**||
+|**Expected Result**|If signing up a user with a valid email should successfully create it with a success message.|
 | :- | :- |
-|**Notes**||
+|**Notes**|When creating a user with an email should, after registration should send a verification email that allows to log in the registered user.|
 
