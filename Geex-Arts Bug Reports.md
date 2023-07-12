@@ -13,9 +13,9 @@
 
   **Bug overview**  
 
-                    Summary         Login with mar@mailinator.com email doesn't get email of verification
+                    Summary         Login with mar2@mailinator.com email doesn't get an email of verification
                     
-                    URL             [Geex-Arts](https://eyeb-web-git-dev-eyeb.vercel.app)
+                    URL             https://eyeb-web-git-dev-eyeb.vercel.app
 
                     Screenshot      [[screen
                                     recording]{.underline}](https://drive.google.com/file/d/1wAuE9hq58lg5-bYFN4lYY4MROyAyQGDn/view?usp=sharing)
@@ -40,7 +40,7 @@
                     Expected result The user should be successfully logged in and redirected to the homepage.\
                                     The application should behave normally without any performance glitches.
 
-                    Actual result   When users login with performace_glitch_user the redirection to prodcut page takes long not in applicabble
+                    Actual result   When users log in with performace_glitch_user the redirection to product page takes a long not applicable
                                     time limits
 
                     Description     /
