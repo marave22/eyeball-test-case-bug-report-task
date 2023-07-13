@@ -34,7 +34,7 @@
 
 |**Expected Result**|If signing up a user with a valid email should successfully create it with a success message.|
 | :- | :- |
-|**Notes**|When creating a user with an email should, after registration should send a verification email that allows to log in the registered user.|
+|**Notes**|When creating a user with an email should, after registration should send a verification email that allows to log in the registered user. It would be good when the signup process the pop-up has a back arrow to the previous steps.|
 
 
 *Scenario 2:*
