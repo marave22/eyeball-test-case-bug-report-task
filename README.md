@@ -1,4 +1,4 @@
-# eyeball web test cases and bug reports 
+# eyeball test cases and bug reports 
 
 The task of Geex-Arts, includes test cases and Bug Reports of Sign In/Sign Up pages.
 
