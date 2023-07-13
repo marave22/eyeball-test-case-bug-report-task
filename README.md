@@ -26,7 +26,7 @@ Screen Resolution | 1920x1080 pixels |
 ## **Requirements**
 
 - **Password:** field must be filled with English alphabet letters and include three character types: lowercase letters, uppercase letters and numbers. You also have the option to use any of these special characters: # [ ] ( ) @ $ & * ! ? | , . ^ / \ + _ -
-   - 8 — 10 characters
+   - At least 8
    - At least one uppercase letter (ABC...)
    - At least one lowercase letter (abc...)
    - At least one number (123...)
