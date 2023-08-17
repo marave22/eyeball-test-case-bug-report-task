@@ -6,7 +6,7 @@
 | :- | :- | :- | :- |
 |**Test Priority (Low/Medium/High)**|Medium|**Designed date**|11/07/2023|
 |**Module Name**|Sign Up User|**Test Executed by**|Mariam Avetisyan|
-|**Scenario ID**|1|**Test Execution date**|10/06/2023|
+|**Scenario ID**|1|**Test Execution date**|11/07/2023|
 
 
 |**Test Title**|Verify Sign Up user with a valid email|
@@ -43,7 +43,7 @@
 | :- | :- | :- | :- |
 |**Test Priority (Low/Medium/High)**|Medium|**Designed date**|11/07/2023|
 |**Module Name**|Sign Up User|**Test Executed by**|Mariam Avetisyan|
-|**Scenario ID**|2|**Test Execution date**|10/06/2023|
+|**Scenario ID**|2|**Test Execution date**|11/07/2023|
 
 
 |**Test Title**|Verify Sign Up user with a valid phone|
@@ -80,7 +80,7 @@
 | :- | :- | :- | :- |
 |**Test Priority (Low/Medium/High)**|Medium|**Designed date**|11/07/2023|
 |**Module Name**|Sign Up User|**Test Executed by**|Mariam Avetisyan|
-|**Scenario ID**|3|**Test Execution date**|10/06/2023|
+|**Scenario ID**|3|**Test Execution date**|11/07/2023|
 
 
 |**Test Title**|Verify Sign Up user with a valid phone|
@@ -114,7 +114,7 @@
 | :- | :- | :- | :- |
 |**Test Priority (Low/Medium/High)**|Medium|**Designed date**|11/07/2023|
 |**Module Name**|Sign Up User|**Test Executed by**|Mariam Avetisyan|
-|**Scenario ID**|4|**Test Execution date**|10/06/2023|
+|**Scenario ID**|4|**Test Execution date**|11/07/2023|
 
 
 |**Test Title**|Verify Sign Up user with a valid phone|
